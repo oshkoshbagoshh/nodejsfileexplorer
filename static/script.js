@@ -28,6 +28,5 @@ console.log(items);
 
 
 // sort status
-//TODO: sort status
-// #BOOKMARK
+
 
