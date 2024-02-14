@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-online-file-explorer",
+  "version": "1.0.0",
+  "description": "a nodeJS file explorer app",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "AJ Javadi",
+  "license": "ISC"
+}
