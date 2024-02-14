@@ -7,7 +7,7 @@ NodeJS Online File Explorer Application
 - If a user clicks on a file, the program will display the file contents (including playing audio and videos in the browser)
 - this is done efficiently by streaming chunks of data 
 - Users can sort files by name, date modified, and size
-- the front-end was built using boostrap and basic HTML
+- the front-end was built using bootstrap and basic HTML
 
 
 ## Table of Contents (Optional)
@@ -29,3 +29,5 @@ npm install && node index.js
 ![alt text](img.png)
 
 ## Deployed Link
+[https://secure-dusk-54693-2257fab8424a.herokuapp.com]
+
