@@ -130,3 +130,6 @@ dist
 .pnp.*
 .DS_Store
 
+
+#ignore the static folder
+static
