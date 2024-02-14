@@ -2,7 +2,7 @@
   "name": "nodejs-online-file-explorer",
   "version": "1.0.0",
   "description": "a nodeJS file explorer app",
-  "main": "app.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
